@@ -1,4 +1,4 @@
-# NeuralNetwork-and-DeepLearning
+# ANA675: Neural Network and Deep Learning
 
 ## Course Description
 Apply neural network analytical methods to a variety of applications in artificial intelligence using python. Analyze deep learning predictive models in industrial applications.
